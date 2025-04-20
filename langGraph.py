@@ -1,3 +1,4 @@
+# pip install langchain-openai langchain-community langchain-core langgraph typing-extensions faiss-cpu tavily-python
 import os
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
