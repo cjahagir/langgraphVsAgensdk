@@ -1,3 +1,4 @@
+# pip install openai openai-agents
 from openai import OpenAI
 from agents import Agent, Runner, function_tool, RunContextWrapper, WebSearchTool
 import asyncio
